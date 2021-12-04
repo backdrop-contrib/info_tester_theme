@@ -1,0 +1,21 @@
+name = Info Tester theme.
+description = Test theme to test info file data on BackdropCMS.org
+backdrop = 1.x
+type = theme
+
+
+; Themes can have colors, tags, maintainers, and screenshots.
+
+; Aquamarine shouldnt work, since its not in the allowed list.
+colors[] = Blue
+colors[] = Beige
+colors[] = Aquamarine
+
+tags[] = Testing
+tags[] = Development
+
+maintainers[] = docwilmot
+maintainers[] = bugfolder
+
+; Screenshot handling rules
+; screenshots[default] = filename.ext
