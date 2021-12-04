@@ -18,4 +18,4 @@ maintainers[] = docwilmot
 maintainers[] = bugfolder
 
 ; Screenshot handling rules
-; screenshots[default] = filename.ext
+screenshots[default] = firstpng.png
